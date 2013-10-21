@@ -1,0 +1,19 @@
+{
+  "name": "Organimi",
+  "description": "Organimi is a simple, easy to use system for creating and managing org charts for all the organizations you belong to.",
+  "manifest_version": 2,
+  "version": 2,
+  "icons": {
+    "128": "icon.png"
+  },
+  "app": {
+    "urls": [
+    ],
+    "launch": {
+      "web_url": "https://secure.organimi.com/",
+      "container": "panel",
+      "height": 768,
+      "width" : 1024
+    }
+  }
+}
